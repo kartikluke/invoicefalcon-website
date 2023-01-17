@@ -83,12 +83,12 @@
 <ol>
   <li>Click on ‘Online Store’ -&gt; ‘Themes’ in your Shopify dashboard.</li>
   <li>Next, click on ‘Actions’ -&gt; ‘Edit Code’</li>
-  <li>Search for and click on the file labelled <strong>cart.liquid</strong> or <strong>cart-template.liquid</strong> (depending on your theme file)</li>
+  <li>Search for and click on the file labelled <strong>cart.liquid</strong>, <strong>cart-template.liquid</strong> or <stronog>main-cart-footer</strong>(depending on your theme file)</li>
   <li>
     <p>Insert this snippet of code into this file in the section containing the ‘Update’ &amp; ‘Checkout’ buttons -</p>
 
     <p><code class="highlighter-rouge">&lt;!-- Invoice Falcon PO Number code START --&gt;
- &lt;input type="text" name="attributes[PO_Number]" placeholder="Purchase Order Number" value="{{ cart.attributes['PO_Number'] }}" /&gt;
+ &lt;input type="text" name="attributes[PO_Number]" placeholder="Purchase Order Number" value="{{ cart.attributes['PO_Number'] }}" form="cart"/&gt;
  &lt;!-- Invoice Falcon PO Number code END --&gt;</code></p>
   </li>
 </ol>
