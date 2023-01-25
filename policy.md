@@ -3,7 +3,7 @@ title: Privacy Policy
 url: '/policy'
 ---
 
-**622 Solutions Private Limited** ("us", "we", or "our") operates the invoicefalcon.com website (the "Service").
+**NexaSky DMCC** ("us", "we", or "our") operates the invoicefalcon.com website (the "Service").
 
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 We will not use or share your information with anyone except as described in this Privacy Policy.
@@ -12,6 +12,8 @@ We use your Personal Information for providing and improving the Service. By usi
 
 ### Information Collection And Use
 While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your name, phone number, postal address ("Personal Information").
+
+In order to provide invoicing services, we collect certain personal data of our merchants' customers data as well, including but not limited to their name, address, phone number, and email address. The personal data is collected to generate invoices, quotes, credit notes, and packaging slips based on orders.
 
 ### Log Data
 We collect information that your browser sends whenever you visit our Service ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.
